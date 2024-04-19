@@ -5,7 +5,7 @@ pipeline {
  					steps {
  						script {
  							
- 							echo Hello World 
+ 							echo 'Hello World' 
  							
  							}
  						}
